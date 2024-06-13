@@ -55,4 +55,4 @@ Access the Flask Application:
 Open a web browser and go to http://localhost:5004.
 
 View Optimized Routes:
-The application will query the Fetch AI agent with the test data, and you will see the optimized clusters and routes for bin  collection.
+The application will query the Fetch AI agent with the test data, and you will see the optimized clusters and routes for bin collection.
